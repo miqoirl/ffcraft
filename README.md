@@ -16,5 +16,6 @@ In Command Prompt
 - Navigate to folder:
     - cd <path_to_folder> 
         - for example: `cd C:\Users\username\Downloads\ffcraft`
+- Open crafting page in game so that the 'Synthesize' button is seen
 - Run:
     - python ffcraft.py
