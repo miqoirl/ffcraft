@@ -1,3 +1,5 @@
+This script automates crafting in FF14. Currently, only single macro crafts are supported.
+
 ### Set up
 
 1. Download and install Python - https://www.python.org/downloads/
