@@ -7,6 +7,7 @@ This script automates crafting in FF14. Currently, only single macro crafts are 
 3. Open Command Prompt as administrator
 4. Install required packages
     - pip install pyautogui
+    - pip install Pillow
     - pip install "opencv-python-headless<4.3"
 5. Replace synth_button.png in images/ folder with your own
 6. Open ffcraft.py in a text editor and replace this line:
